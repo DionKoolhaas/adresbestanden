@@ -1,4 +1,4 @@
 [[comment, datapackage, diagram, elementvalue, instancespecification, instancevalue, literalinteger, literalstring, literalunlimitednatural, property, resource, slot, tags]]
 Begin zoeken naar elements van type [datapackage]
-ee = [03-bevoegde-gezagen-vo -v01] herkend als dataset
-Voor package/dataset met naam [03-bevoegde-gezagen-vo -v01] zal datapackager JSON-schema [datapackage.json] gemaakt worden.
+ee = [03-bevoegde-gezagen-vo-v01] herkend als dataset
+Voor package/dataset met naam [03-bevoegde-gezagen-vo-v01] zal datapackager JSON-schema [datapackage.json] gemaakt worden.

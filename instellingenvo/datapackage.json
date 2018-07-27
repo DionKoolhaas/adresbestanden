@@ -38,13 +38,13 @@
 	"conforms_to" : "DCAT-AP1.1",
 	"resources" : [
 	{
-		"name" : "instellingenvo.csv",
+		"name" : "instellingenvo",
 		"title" : "Adressen van alle hoofdvestigingen in het VO",
 		"description" : "De adresgegevens van hoofdvestigingen van scholen in het voortgezet onderwijs. \nDe gegevens bestaan uit vestigings- en correspondentieadres, bijhorend schoolbestuur, denominatie \nen regionale gebiedsindelingen (nodaal, RPA,",
-		"path" : "data/instellingenvo.csv.csv",
+		"path" : "data/instellingenvo.csv",
 		"profile" : "tabular-data-resource",
-		"issued" : "2018-07-25T09:55:12.446",
-		"modified" : "2018-07-25T09:55:12.446",
+		"issued" : "2018-07-26T08:15:07.220",
+		"modified" : "2018-07-26T08:15:07.220",
 		"schema" : {
 			"fields" : [
 				{

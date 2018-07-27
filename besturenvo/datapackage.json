@@ -1,5 +1,5 @@
 {
-	"name" : "03-bevoegde-gezagen-vo -v01",
+	"name" : "03-bevoegde-gezagen-vo-v01",
     "title" : "Adressen van bevoegde gezagen in het VO",
     "description" : "De adresgegevens van de bevoegde gezagen (schoolbesturen) in het voortgezet onderwijs. \nDe gegevens bestaan uit vestigingsadres, correspondentieadres, denominatie en administratiekantoornummer.",
 	"version" : "0.1.0",
@@ -38,13 +38,13 @@
 	"conforms_to" : "DCAT-AP1.1",
 	"resources" : [
 	{
-		"name" : "besturenvo.csv",
+		"name" : "besturenvo",
 		"title" : "Adressen van bevoegde gezagen in het VO",
 		"description" : "De adresgegevens van de bevoegde gezagen (schoolbesturen) in het voortgezet onderwijs.\nDe gegevens bestaan uit vestigingsadres, correspondentieadres, denominatie en administratiekantoornummer.",
-		"path" : "data/besturenvo.csv.csv",
+		"path" : "data/besturenvo.csv",
 		"profile" : "tabular-data-resource",
-		"issued" : "2018-07-25T09:56:28.211",
-		"modified" : "2018-07-25T09:56:28.211",
+		"issued" : "2018-07-26T08:22:47.365",
+		"modified" : "2018-07-26T08:22:47.365",
 		"schema" : {
 			"fields" : [
 				{
